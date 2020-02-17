@@ -30,11 +30,8 @@
 ***Building***
 - Do now work with NetBeans 8.2 in the beginning.
   So I add some config data in the settings.xml for maven:
-    <mirror>
-      <id>central-https</id>
-      <url>https://repo.maven.apache.org/maven2</url>
-      <mirrorOf>central</mirrorOf>
-    </mirror>
+  
+  ![Image](config.png)
 	
   
 - Next, I clear and build for this project. 
