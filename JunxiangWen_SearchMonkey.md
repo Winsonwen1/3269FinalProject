@@ -1,4 +1,4 @@
-# Monkey Shoping App
+# Search Monkey
 
 ## Project Abstract
 
